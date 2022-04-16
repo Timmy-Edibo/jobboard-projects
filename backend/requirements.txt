@@ -5,6 +5,9 @@ uvicorn
 sqlalchemy
 psycopg2
 
+# for env variable
+python-dotenv
+
 # for email validation
 pydantic[email]
 

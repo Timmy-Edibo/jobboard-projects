@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+
+# for databases
+sqlalchemy
+psycopg2
+
+# for email validation
+pydantic[email]
+
+# Hashing
+passlib[bcrypt]
+
